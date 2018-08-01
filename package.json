@@ -1,0 +1,10 @@
+{
+  "name": "wmcc-decimal",
+  "version": "1.0.0-beta.1",
+  "description": "WMCC Decimal - WMCC Exchange Utility",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-decimal.js"
+}
